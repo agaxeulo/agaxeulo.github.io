@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://agaxeulo.github.io/Bpx/sitemap_index.txt
+Sitemap: https://agaxeulo.github.io/Lbq/sitemap_index.txt
+Sitemap: https://agaxeulo.github.io/Wac/sitemap_index.txt
+Sitemap: https://agaxeulo.github.io/mMB/sitemap_index.txt
